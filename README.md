@@ -1,4 +1,4 @@
-# House Party Protocol
+# House Party Py
 **Basic python version of original project which is written in C#**
 
 It's a file wiper program which can get commands remotely and acts in emergency stiuations. 
