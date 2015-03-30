@@ -1,5 +1,5 @@
 # House Party Py
-**Basic python version of original project which is written in C#**
+**Basic python version of original project named "House Party Protocol" which is written in C#**
 
 It's a file wiper program which can get commands remotely and acts in emergency stiuations. 
 Program's name inspired by Iron Man 3 movie where Tony Stark activates the "House Party Protocol" when his house is destroyed.
